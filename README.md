@@ -14,13 +14,14 @@ Eksperimen dan Inovasi: Jelajahi teknologi baru dan ciptakan sesuatu yang luar b
 Open Source Code: Setiap proyek di sini terbuka untuk dikembangkan dan dikritisi
 <br>
 🚀 Tertarik pada bidang Teknologi : 
-Frontend: HTML, CSS, JavaScript
+<br>Frontend: HTML, CSS, JavaScript
 Backend: PHP, Node.js, Python
 Database: MySQL, MongoDB
 Tools: Git, GitHub, VS Code
 Frameworks: Laravel, React.js, Express.js
+</br>
 
 --instalasi clone ke machine anda:
 ```git:
-git clone https://github.com/username/project-kuliah.git
+git clone https://github.com/ProgrammingDevelopment/project-kuliah.git
 ```
